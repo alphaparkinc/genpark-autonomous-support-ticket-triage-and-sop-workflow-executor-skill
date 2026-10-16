@@ -1,0 +1,7 @@
+[project]
+name = "genpark-autonomous-support-ticket-triage-and-sop-workflow-executor-skill"
+version = "1.0.0"
+description = "Multi-step Standard Operating Procedure (SOP) workflow executor, ticket intent classifier, and automated resolution engine for support agents"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
